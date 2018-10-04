@@ -17,3 +17,38 @@ a {
     width: 30px;
     margin: 15px;
 }
+#a{
+    display:flex;
+    width:25%;
+    height:25%;
+}
+#b{
+    display:flex;
+    width:25%;
+    height:25%;
+}
+#c{
+    display:flex;
+    width:25%;
+    height:25%;
+}
+#d{
+    display:flex;
+    width:25%;
+    height:25%;
+}
+#e{
+    display:flex;
+    width:25%;
+    height:25%;
+}
+#f{
+    display:flex;
+    width:25%;
+    height:25%;
+}
+#spiderman{
+    display:flex;
+    width:25%;
+    height:25%;
+}
